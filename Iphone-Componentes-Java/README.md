@@ -6,11 +6,7 @@ Com base no vídeo de lançamento do iPhone, elabore em uma ferramenta de UML de
 
 Lançamento iPhone 2007
 
-[DESAFIO - DIO](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
-
-
 ## UML - representação
 
 ![UML - Representacao](https://raw.githubusercontent.com/DocksDocks/dio-desafio-java-iphone-componente/main/componente-uml/iPhone.drawio.png)
 
-O codigo esta em src.
