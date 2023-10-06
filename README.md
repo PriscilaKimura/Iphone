@@ -4,7 +4,7 @@ DIO - Trilha Java Básico
 www.dio.me
 
 <h2>Autores</h2>
-<p>Gleyson Sampaio</p>
+
 POO - Desafio
 Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
 
